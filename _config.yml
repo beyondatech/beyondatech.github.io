@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 非数科技
+logo: /assets/images/logo.png
 email:
 description: 
 minimal_mistakes_skin: default
