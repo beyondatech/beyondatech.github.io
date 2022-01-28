@@ -62,5 +62,3 @@ defaults:
     values:
       layout: single
       author_profile: false
-  - scope:
-      path: "ethereal-land"
