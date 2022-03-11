@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 非数科技
-logo: /assets/images/logo-full.png
+title: SFS Studio
+logo: /assets/images/logo.png
 masthead_title: " "
-email:
+email: contact@shufeishu-inc.com
 description: 
 minimal_mistakes_skin: default
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
