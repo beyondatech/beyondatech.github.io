@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SFS Studio
-logo: /assets/images/logo.png
 masthead_title: " "
 email: contact@shufeishu-inc.com
 description: 
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
